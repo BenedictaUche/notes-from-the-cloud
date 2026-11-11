@@ -1,4 +1,4 @@
-☁️ Notes from the Cloud
+#☁️ Notes from the Cloud
 
 A learning journal documenting my journey into cloud computing, AWS, Linux, infrastructure, security and AI deployment.
 
